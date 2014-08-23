@@ -1,3 +1,6 @@
+<?php
+echo"";
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,7 +22,7 @@
 	<header class="container">
 		<div class="mypage-header">
 					<!-- Company name or Logo-->
-		<h1> Style  Play  </h1>
+		<h1>Style Play</h1>
 
 			<!-- Menu Bar-->
 		</div>	
