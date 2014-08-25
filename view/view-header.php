@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Style Play</title>
+	<title>Style Play
+  	</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Mehedi Hasan">
 	<meta name="description" content="Aim is to make people more fashionable. The Designs are elegant than other brands of Europe. Moreover, we are going to offer one of the best quality in a very cheap price. Hopefully our products will bring new fashion in our society">
@@ -26,7 +27,9 @@
 			
 					<!-- Company name or Logo-->
 	
-		<h1>Style  Play</h1>
+		<h1>Style  Play<small><cite title="Source Title"><font size="2">&nbsp;Norway</font></cite></small></h1>
+
+
 
 			<!-- Menu Bar-->
 		</div>	

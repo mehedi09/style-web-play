@@ -23,7 +23,13 @@
       </div>
     </div>
     <div class="form-group">
-       <label for="inputEmail" class="col-lg-2 control-label">Message</label>
+       <label for="inputFeedBack" class="col-lg-2 control-label">Feedback</label>
+         <div class="col-lg-10">
+        <textarea class="form-control" rows="3" id="inputTextArea" placeholder="Send Us Feedback"></textarea>
+      </div>
+    </div>
+      <div class="form-group">
+       <label for="inputMessage" class="col-lg-2 control-label">Message</label>
          <div class="col-lg-10">
         <textarea class="form-control" rows="3" id="inputTextArea" placeholder="Send Us a message"></textarea>
       </div>
