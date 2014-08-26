@@ -12,7 +12,7 @@
             </div>
         </div>
         <!-- Slides Container -->
-       	 <div u="slides" role="slider" style="cursor: move; position: absolute; left: 40px; top: 0px; width: 600px; height: 440px;
+       	 <div u="slides" role="slider" style="cursor: move; position: absolute; left: 40px; top: 0px; width: 600px; height: 410px;
             overflow: hidden;">
 	            <div>
 					<img u="image" src="img/slider/landscape/01.jpg" class="img-thumbnail"  />
@@ -61,10 +61,17 @@
 		</section>
 			<section class="col-md-6">
 			<div class="jumbotron">
-				  <h2>Welcome To Style play</h2>
-				  <p>Our aim is to make people more fashionable. Our designs are elegant than other brands of Europe. Moreover, We are going to offer one of the best quality in a very cheap price. </p>
+				  <h2><span class="Norway">Velkommen til</span><span class="English">Welcome To</span> Style play</h2>
+				  <span class="Norway"><p>Vårt mål er å gjøre folk mer fasjonable. Våre design er elegant enn andre merker av Europa. Videre er vi kommer til å tilby en av de beste kvalitet i en svært billig pris.
+				  </p></span>
+				  <span class="English">
+				  <p>Our aim is to make people more fashionable. Our designs are elegant than other brands of Europe. Moreover, We are going to offer one of the best quality in a very cheap price.
+				  </p></span>
 				  <p>
-				  	<a class="btn btn-primary btn-lg">About Us</a>
+				  	<a class="btn btn-primary btn-lg">
+				  		<span class="Norway">Om oss</span>
+						<span class="English">About Us</span>
+				  	</a>
 				  </p>
 			</div>
 	</section>
